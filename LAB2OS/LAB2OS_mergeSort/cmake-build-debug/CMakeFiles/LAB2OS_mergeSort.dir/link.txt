@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/LAB2OS_mergeSort.dir/main.cpp.o CMakeFiles/LAB2OS_mergeSort.dir/LowHigh.cpp.o  -o LAB2OS_mergeSort 

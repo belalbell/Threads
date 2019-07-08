@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sara/Desktop/LAB2OS_mergeSort/LowHigh.h
+
+/home/sara/Desktop/LAB2OS_mergeSort/main.cpp
+iostream
+-
+pthread.h
+-
+fstream
+-
+vector
+-
+LowHigh.h
+/home/sara/Desktop/LAB2OS_mergeSort/LowHigh.h
+

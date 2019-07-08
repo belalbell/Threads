@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sara/Desktop/LAB2OS_matrixMultiplication/main.cpp
+time.h
+-
+iostream
+-
+mutex
+-
+cstring
+-
+fstream
+-
+

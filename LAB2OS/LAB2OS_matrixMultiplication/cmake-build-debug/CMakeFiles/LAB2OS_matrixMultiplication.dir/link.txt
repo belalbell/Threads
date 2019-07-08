@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/LAB2OS_matrixMultiplication.dir/main.cpp.o  -o LAB2OS_matrixMultiplication 
